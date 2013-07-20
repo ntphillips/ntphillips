@@ -1,6 +1,6 @@
 ---
-title: Hello, World!
 layout: default
+title: Nathaniel Tull Phillips
 ---
 
 # Hello World
