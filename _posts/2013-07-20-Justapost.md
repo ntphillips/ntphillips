@@ -1,6 +1,6 @@
 ---
 title: Just a Post
-layout: default
+layout: post
 ---
 
 Just a post
