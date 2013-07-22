@@ -1,6 +1,6 @@
 ---
 title: Owning your Design
-layout: default
+layout: post
 ---
 
 When you go wordpress, you generally "rent" your design, even if it's for free.
